@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1092360223247",
+    "project_id": "chat-based-app-b3c97",
+    "storage_bucket": "chat-based-app-b3c97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092360223247:android:3af267e2c6499f6877417a",
+        "android_client_info": {
+          "package_name": "com.example.app_cloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092360223247-b1ucg28png89cjqdkj9b3bm7dlr82c8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCikkHsQ3dBeMr09P88dJNJwU9qP22toDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092360223247-b1ucg28png89cjqdkj9b3bm7dlr82c8t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1092360223247-06g923rh0kd161l735fvsem75q9dlf64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.operaApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092360223247:android:f0b2dff0a1b4e52477417a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092360223247-b1ucg28png89cjqdkj9b3bm7dlr82c8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCikkHsQ3dBeMr09P88dJNJwU9qP22toDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092360223247-b1ucg28png89cjqdkj9b3bm7dlr82c8t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1092360223247-06g923rh0kd161l735fvsem75q9dlf64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.operaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
